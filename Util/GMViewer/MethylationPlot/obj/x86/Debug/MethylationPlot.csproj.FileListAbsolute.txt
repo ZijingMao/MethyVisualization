@@ -1,0 +1,29 @@
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.exe
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.pdb
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.MethyPlot.resources
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.Properties.Resources.resources
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.exe
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.MethyPlot.resources
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.Properties.Resources.resources
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zijing\Documents\Visual Studio 2010\Projects\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb
+G:\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.exe
+G:\MethylationPlot\MethylationPlot\bin\Debug\MethylationPlot.pdb
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.MethyPlot.resources
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\MethylationPlot.Properties.Resources.resources
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\MethylationPlot\MethylationPlot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb

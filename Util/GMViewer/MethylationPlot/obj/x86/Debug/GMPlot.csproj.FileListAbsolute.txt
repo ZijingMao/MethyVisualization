@@ -1,0 +1,17 @@
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\bin\Debug\MethylationPlot.exe
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\bin\Debug\MethylationPlot.pdb
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.GMPlot.resources
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.Properties.Resources.resources
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+C:\Documents and Settings\Zijing\My Documents\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.exe
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\bin\Debug\MethylationPlot.exe
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\bin\Debug\MethylationPlot.pdb
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\GMPlot.csprojResolveAssemblyReference.cache
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.GMPlot.resources
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\MethylationPlot.Properties.Resources.resources
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\GMViewer\MethylationPlot\obj\x86\Debug\GMPlot.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\bin\Debug\DifferentialModel.exe
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\bin\Debug\DifferentialModel.pdb
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\DifferentialModel.DiffMod.resources
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\DifferentialModel.Properties.Resources.resources
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\DifferentialModel.exe
+C:\Documents and Settings\Zijing\my documents\visual studio 2010\Projects\DifferentialModel\DifferentialModel\obj\x86\Debug\DifferentialModel.pdb

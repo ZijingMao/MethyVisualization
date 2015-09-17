@@ -1,0 +1,11 @@
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\bin\Debug\DifferentialSimulator.exe
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\bin\Debug\DifferentialSimulator.pdb
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.DiffSim.resources
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.Properties.Resources.resources
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.exe
+c:\documents and settings\zijing\my documents\visual studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.pdb
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.exe
+C:\Users\Zijing\Documents\Win\Visual Studio 2010\Projects\DifferentialSimulator\DifferentialSimulator\obj\x86\Debug\DifferentialSimulator.pdb
